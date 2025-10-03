@@ -60,3 +60,5 @@
 [2025-10-17 21:09:07 +0500] [Person2Name] Configure Tailwind and Vite build pipeline
 [2025-10-17 23:57:10 +0500] [Person2Name] Add email verification middleware
 [2025-10-18 11:28:26 +0500] [Person2Name] Create forgot password flow
+[2025-10-18 12:05:21 +0500] [Person2Name] Style password reset page
+[2025-10-18 15:13:56 +0500] [Person2Name] Add remember me functionality to login
