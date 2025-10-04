@@ -5,3 +5,4 @@
 [2025-10-03 20:03:39 +0500] [Person2Name] Style password reset page
 [2025-10-03 23:33:38 +0500] [Person2Name] Add remember me functionality to login
 [2025-10-04 11:36:42 +0500] [Person2Name] Configure Google social login callback
+[2025-10-04 13:18:35 +0500] [Person2Name] Create global error handling middleware
