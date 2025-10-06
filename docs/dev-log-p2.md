@@ -573,3 +573,4 @@
 [2025-10-04 20:48:57 +0500] [Person2Name] Set up database seeders for testing
 [2025-10-04 23:06:35 +0500] [Person2Name] Create commission tracking migration
 [2025-10-06 10:54:28 +0500] [Person2Name] Add Commission model and calculation logic
+[2025-10-06 13:54:03 +0500] [Person2Name] Create provider_services pivot migration
