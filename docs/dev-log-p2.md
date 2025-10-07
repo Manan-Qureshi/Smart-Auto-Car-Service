@@ -581,3 +581,4 @@
 [2025-10-07 13:18:00 +0500] [Person2Name] Add Slot model for availability management
 [2025-10-07 15:52:10 +0500] [Person2Name] Add foreign key constraints to bookings
 [2025-10-07 19:53:45 +0500] [Person2Name] Create admin seeder with default account
+[2025-10-07 21:47:57 +0500] [Person2Name] Add nearby providers API with geolocation
