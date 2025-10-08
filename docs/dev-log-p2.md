@@ -22,3 +22,4 @@
 [2025-10-07 20:28:25 +0500] [Person2Name] Create available timeslots API endpoint
 [2025-10-07 22:32:56 +0500] [Person2Name] Add car models API for dynamic dropdown
 [2025-10-07 23:29:43 +0500] [Person2Name] Create price calculation API endpoint
+[2025-10-08 10:12:15 +0500] [Person2Name] Add cart add/remove JSON API routes
