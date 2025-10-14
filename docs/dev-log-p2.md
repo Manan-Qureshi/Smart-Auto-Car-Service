@@ -84,3 +84,6 @@
 [2025-10-22 19:12:37 +0500] [Person2Name] Create worker availability API endpoint
 [2025-10-22 23:44:40 +0500] [Person2Name] Add public services listing endpoint
 [2025-10-23 10:13:43 +0500] [Person2Name] Create provider show page layout
+[2025-10-23 13:10:33 +0500] [Person2Name] Add service cards with add-to-cart buttons
+[2025-10-23 16:58:57 +0500] [Person2Name] Build cart sidebar with total and checkout
+[2025-10-23 20:27:56 +0500] [Person2Name] Create booking flow multi-step UI
