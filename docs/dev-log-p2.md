@@ -605,3 +605,4 @@
 [2025-10-15 11:18:37 +0500] [Person2Name] Add booking status update for providers
 [2025-10-15 13:55:53 +0500] [Person2Name] Create worker booking status dashboard
 [2025-10-15 14:30:31 +0500] [Person2Name] Implement FCFS booking queue for workers
+[2025-10-15 16:32:44 +0500] [Person2Name] Add booking assign dropdown in worker column
