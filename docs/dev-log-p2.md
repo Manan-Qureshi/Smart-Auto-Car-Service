@@ -53,3 +53,4 @@
 [2025-10-16 20:58:10 +0500] [Person2Name] Fix provider distance calculation accuracy
 [2025-10-16 22:56:22 +0500] [Person2Name] Add car selection to booking confirmation
 [2025-10-17 10:15:30 +0500] [Person2Name] Persist car selection in user database
+[2025-10-17 12:33:21 +0500] [Person2Name] Add change car option on provider page
