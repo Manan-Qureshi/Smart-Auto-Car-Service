@@ -637,3 +637,4 @@
 [2025-10-22 11:37:57 +0500] [Person2Name] Add TimeDuration model for service slots
 [2025-10-22 12:22:01 +0500] [Person2Name] Create timeslots migration
 [2025-10-22 15:19:49 +0500] [Person2Name] Add Slot model for availability management
+[2025-10-22 16:28:54 +0500] [Person2Name] Add foreign key constraints to bookings
