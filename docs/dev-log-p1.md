@@ -590,3 +590,4 @@
 [2025-10-10 13:45:03 +0500] [Person1Name] Add Worker model linked to service provider
 [2025-10-10 16:33:05 +0500] [Person1Name] Create car_models and car_types migrations
 [2025-10-10 20:44:29 +0500] [Person1Name] Add CarModel and CarType models
+[2025-10-10 22:20:24 +0500] [Person1Name] Create payments table migration
