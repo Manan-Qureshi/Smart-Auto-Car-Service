@@ -647,3 +647,4 @@
 [2025-10-24 00:31:35 +0500] [Person1Name] Set up Vite asset bundling
 [2025-10-24 11:21:26 +0500] [Person1Name] Create users table migration
 [2025-10-24 15:54:24 +0500] [Person1Name] Add User model with role management
+[2025-10-24 18:59:14 +0500] [Person1Name] Create service_providers table migration
