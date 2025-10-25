@@ -95,3 +95,5 @@
 [2025-10-25 11:22:13 +0500] [Person2Name] Create working hours form for providers
 [2025-10-25 13:29:55 +0500] [Person2Name] Build worker list with availability badges
 [2025-10-25 15:11:00 +0500] [Person2Name] Add worker create form with all fields
+[2025-10-25 16:58:53 +0500] [Person2Name] Create worker edit form with password update
+[2025-10-25 19:54:05 +0500] [Person2Name] Style provider workers index page
