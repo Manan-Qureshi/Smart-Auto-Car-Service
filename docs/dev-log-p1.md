@@ -654,3 +654,4 @@
 [2025-10-25 15:28:23 +0500] [Person1Name] Create bookings table migration
 [2025-10-25 16:12:40 +0500] [Person1Name] Add Booking model with status constants
 [2025-10-25 19:55:33 +0500] [Person1Name] Create workers table migration
+[2025-10-25 22:59:18 +0500] [Person1Name] Add Worker model linked to service provider
