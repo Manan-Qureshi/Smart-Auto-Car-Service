@@ -150,3 +150,8 @@
 [2025-11-09 12:37:16 +0500] [Person2Name] Build service management page for admin
 [2025-11-09 14:07:47 +0500] [Person2Name] Create car management page for admin
 [2025-11-09 16:25:54 +0500] [Person2Name] Add provider service toggle switches
+[2025-11-09 19:30:26 +0500] [Person2Name] Create working hours form for providers
+[2025-11-09 21:52:59 +0500] [Person2Name] Build worker list with availability badges
+[2025-11-10 00:40:38 +0500] [Person2Name] Add worker create form with all fields
+[2025-11-11 10:00:59 +0500] [Person2Name] Create worker edit form with password update
+[2025-11-11 12:17:12 +0500] [Person2Name] Style provider workers index page
