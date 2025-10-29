@@ -620,3 +620,5 @@
 [2025-10-18 20:16:11 +0500] [Person1Name] Update bookings schema for multi-service support
 [2025-10-18 22:38:37 +0500] [Person1Name] Add real-time booking status via Pusher
 [2025-10-19 00:59:11 +0500] [Person1Name] Configure WebSocket broadcast channels
+[2025-10-20 11:51:48 +0500] [Person1Name] Implement worker assignment by provider
+[2025-10-20 13:32:19 +0500] [Person1Name] Add first-come-first-served status rules
