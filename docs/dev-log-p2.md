@@ -110,3 +110,5 @@
 [2025-10-28 16:33:07 +0500] [Person2Name] Create provider earnings breakdown chart
 [2025-10-28 19:40:19 +0500] [Person2Name] Fix provider distance calculation accuracy
 [2025-10-28 22:37:49 +0500] [Person2Name] Add car selection to booking confirmation
+[2025-10-29 10:04:33 +0500] [Person2Name] Persist car selection in user database
+[2025-10-29 14:06:42 +0500] [Person2Name] Add change car option on provider page
