@@ -165,3 +165,5 @@
 [2025-11-12 19:03:30 +0500] [Person2Name] Add customer rating and review submission
 [2025-11-12 22:08:27 +0500] [Person2Name] Display average rating on provider card
 [2025-11-14 10:16:29 +0500] [Person2Name] Add financial summary for admin panel
+[2025-11-14 14:03:47 +0500] [Person2Name] Create provider earnings breakdown chart
+[2025-11-14 16:43:12 +0500] [Person2Name] Fix provider distance calculation accuracy
