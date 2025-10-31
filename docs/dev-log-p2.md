@@ -116,3 +116,5 @@
 [2025-10-29 20:04:27 +0500] [Person2Name] Deploy configuration for production
 [2025-10-29 23:53:10 +0500] [Person2Name] Scaffold Laravel project structure
 [2025-10-31 11:36:22 +0500] [Person2Name] Configure Tailwind and Vite build pipeline
+[2025-10-31 13:28:16 +0500] [Person2Name] Add email verification middleware
+[2025-10-31 15:40:00 +0500] [Person2Name] Create forgot password flow
