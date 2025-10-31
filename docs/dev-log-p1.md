@@ -627,3 +627,5 @@
 [2025-10-20 20:58:41 +0500] [Person1Name] Implement nearest provider sorting algorithm
 [2025-10-20 21:08:05 +0500] [Person1Name] Fix booking cancellation with Stripe refund
 [2025-10-20 23:40:02 +0500] [Person1Name] Add CNIC and address fields to worker form
+[2025-10-21 10:45:46 +0500] [Person1Name] Link worker accounts to users table for login
+[2025-10-21 15:39:23 +0500] [Person1Name] Fix mobile responsiveness on provider page
