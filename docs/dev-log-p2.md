@@ -123,3 +123,4 @@
 [2025-10-31 23:37:49 +0500] [Person2Name] Configure Google social login callback
 [2025-11-03 11:30:45 +0500] [Person2Name] Create global error handling middleware
 [2025-11-03 14:06:04 +0500] [Person2Name] Add role-based access control middleware
+[2025-11-03 18:48:00 +0500] [Person2Name] Set up database seeders for testing
