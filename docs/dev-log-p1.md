@@ -629,3 +629,6 @@
 [2025-10-20 23:40:02 +0500] [Person1Name] Add CNIC and address fields to worker form
 [2025-10-21 10:45:46 +0500] [Person1Name] Link worker accounts to users table for login
 [2025-10-21 15:39:23 +0500] [Person1Name] Fix mobile responsiveness on provider page
+[2025-10-21 18:53:59 +0500] [Person1Name] Add session-based car selection persistence
+[2025-10-21 22:45:30 +0500] [Person1Name] Improve admin financial reports page
+[2025-10-22 11:48:36 +0500] [Person1Name] Add commission calculation on booking completion
