@@ -698,3 +698,4 @@
 [2025-11-05 19:44:00 +0500] [Person2Name] Add foreign key constraints to bookings
 [2025-11-05 22:22:30 +0500] [Person2Name] Create admin seeder with default account
 [2025-11-06 00:23:48 +0500] [Person2Name] Add nearby providers API with geolocation
+[2025-11-06 10:35:23 +0500] [Person2Name] Create available timeslots API endpoint
