@@ -693,3 +693,4 @@
 [2025-11-07 10:49:06 +0500] [Person1Name] Implement nearest provider sorting algorithm
 [2025-11-07 13:29:25 +0500] [Person1Name] Fix booking cancellation with Stripe refund
 [2025-11-07 16:54:55 +0500] [Person1Name] Add CNIC and address fields to worker form
+[2025-11-07 18:02:14 +0500] [Person1Name] Link worker accounts to users table for login
