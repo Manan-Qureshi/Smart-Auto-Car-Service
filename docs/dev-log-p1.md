@@ -652,3 +652,4 @@
 [2025-10-25 11:10:49 +0500] [Person1Name] Create services and service_categories migrations
 [2025-10-25 12:10:26 +0500] [Person1Name] Add Service model with price and duration fields
 [2025-10-25 15:28:23 +0500] [Person1Name] Create bookings table migration
+[2025-10-25 16:12:40 +0500] [Person1Name] Add Booking model with status constants
