@@ -700,3 +700,4 @@
 [2025-11-09 12:47:30 +0500] [Person1Name] Add commission calculation on booking completion
 [2025-11-09 15:11:48 +0500] [Person1Name] Final UI polish and accessibility improvements
 [2025-11-09 16:21:30 +0500] [Person1Name] Update .env.example with required keys
+[2025-11-09 20:40:06 +0500] [Person1Name] Add project README with setup instructions
