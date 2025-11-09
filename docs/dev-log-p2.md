@@ -199,3 +199,5 @@
 [2025-11-24 18:53:32 +0500] [Person2Name] Add cart add/remove JSON API routes
 [2025-11-24 22:51:43 +0500] [Person2Name] Create worker availability API endpoint
 [2025-11-25 10:22:48 +0500] [Person2Name] Add public services listing endpoint
+[2025-11-25 12:05:49 +0500] [Person2Name] Create provider show page layout
+[2025-11-25 14:01:15 +0500] [Person2Name] Add service cards with add-to-cart buttons
