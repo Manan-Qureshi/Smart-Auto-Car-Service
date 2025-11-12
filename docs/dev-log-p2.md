@@ -724,3 +724,4 @@
 [2025-11-12 16:47:14 +0500] [Person2Name] Add booking assign dropdown in worker column
 [2025-11-12 18:06:01 +0500] [Person2Name] Remove redundant actions column from dashboard
 [2025-11-12 21:02:32 +0500] [Person2Name] Update booking stats in provider dashboard
+[2025-11-12 22:04:34 +0500] [Person2Name] Add live chat feature with Pusher
