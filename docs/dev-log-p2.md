@@ -167,3 +167,5 @@
 [2025-11-14 10:16:29 +0500] [Person2Name] Add financial summary for admin panel
 [2025-11-14 14:03:47 +0500] [Person2Name] Create provider earnings breakdown chart
 [2025-11-14 16:43:12 +0500] [Person2Name] Fix provider distance calculation accuracy
+[2025-11-14 19:37:58 +0500] [Person2Name] Add car selection to booking confirmation
+[2025-11-14 23:32:33 +0500] [Person2Name] Persist car selection in user database
