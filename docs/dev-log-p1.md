@@ -721,3 +721,4 @@
 [2025-11-12 22:33:21 +0500] [Person1Name] Add Booking model with status constants
 [2025-11-16 11:44:45 +0500] [Person1Name] Create workers table migration
 [2025-11-16 12:31:28 +0500] [Person1Name] Add Worker model linked to service provider
+[2025-11-16 15:26:13 +0500] [Person1Name] Create car_models and car_types migrations
