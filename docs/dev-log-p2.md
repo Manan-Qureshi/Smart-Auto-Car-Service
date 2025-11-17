@@ -179,3 +179,5 @@
 [2025-11-17 12:46:22 +0500] [Person2Name] Style password reset page
 [2025-11-17 14:27:34 +0500] [Person2Name] Add remember me functionality to login
 [2025-11-17 17:30:57 +0500] [Person2Name] Configure Google social login callback
+[2025-11-17 20:03:26 +0500] [Person2Name] Create global error handling middleware
+[2025-11-17 22:33:04 +0500] [Person2Name] Add role-based access control middleware
