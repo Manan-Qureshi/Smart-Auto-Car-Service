@@ -729,3 +729,4 @@
 [2025-11-18 11:31:19 +0500] [Person1Name] Add HomeController with location-based sorting
 [2025-11-18 14:22:21 +0500] [Person1Name] Create ProviderController with public profile
 [2025-11-18 16:00:27 +0500] [Person1Name] Add BookingController store and confirmation
+[2025-11-18 20:29:37 +0500] [Person1Name] Create PaymentController with Stripe checkout
