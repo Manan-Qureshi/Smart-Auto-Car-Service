@@ -235,3 +235,5 @@
 [2025-12-05 20:41:07 +0500] [Person2Name] Add email verification middleware
 [2025-12-05 22:08:52 +0500] [Person2Name] Create forgot password flow
 [2025-12-06 11:11:56 +0500] [Person2Name] Style password reset page
+[2025-12-06 12:01:01 +0500] [Person2Name] Add remember me functionality to login
+[2025-12-06 16:50:12 +0500] [Person2Name] Configure Google social login callback
