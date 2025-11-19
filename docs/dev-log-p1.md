@@ -731,3 +731,4 @@
 [2025-11-18 16:00:27 +0500] [Person1Name] Add BookingController store and confirmation
 [2025-11-18 20:29:37 +0500] [Person1Name] Create PaymentController with Stripe checkout
 [2025-11-18 22:54:10 +0500] [Person1Name] Add AdminController for provider management
+[2025-11-19 11:28:34 +0500] [Person1Name] Create DashboardController with role routing
