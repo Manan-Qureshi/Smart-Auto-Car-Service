@@ -758,3 +758,4 @@
 [2025-11-23 10:41:25 +0500] [Person1Name] Create working hours management for providers
 [2025-11-23 14:01:20 +0500] [Person1Name] Add service toggle (on/off) for providers
 [2025-11-23 16:24:51 +0500] [Person1Name] Implement nearest provider sorting algorithm
+[2025-11-23 20:50:51 +0500] [Person1Name] Fix booking cancellation with Stripe refund
