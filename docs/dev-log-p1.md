@@ -761,3 +761,5 @@
 [2025-11-23 20:50:51 +0500] [Person1Name] Fix booking cancellation with Stripe refund
 [2025-11-23 23:56:12 +0500] [Person1Name] Add CNIC and address fields to worker form
 [2025-11-24 11:38:36 +0500] [Person1Name] Link worker accounts to users table for login
+[2025-11-24 13:51:05 +0500] [Person1Name] Fix mobile responsiveness on provider page
+[2025-11-24 16:11:12 +0500] [Person1Name] Add session-based car selection persistence
