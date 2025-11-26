@@ -708,3 +708,5 @@
 [2025-11-10 15:02:52 +0500] [Person1Name] Style registration form with glassmorphism
 [2025-11-10 18:20:55 +0500] [Person1Name] Add Google OAuth login integration
 [2025-11-10 20:08:01 +0500] [Person1Name] Configure session and CSRF middleware
+[2025-11-10 22:19:10 +0500] [Person1Name] Create base layout with responsive navbar
+[2025-11-11 10:06:49 +0500] [Person1Name] Add footer with dark theme and social links
