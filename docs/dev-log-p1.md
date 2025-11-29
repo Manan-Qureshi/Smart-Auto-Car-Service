@@ -781,3 +781,4 @@
 [2025-11-28 18:36:21 +0500] [Person1Name] Create users table migration
 [2025-11-28 21:06:20 +0500] [Person1Name] Add User model with role management
 [2025-11-29 10:53:35 +0500] [Person1Name] Create service_providers table migration
+[2025-11-29 12:36:09 +0500] [Person1Name] Add ServiceProvider model and relationships
