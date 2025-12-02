@@ -774,3 +774,4 @@
 [2025-11-30 19:26:37 +0500] [Person2Name] Create working hours form for providers
 [2025-11-30 23:22:20 +0500] [Person2Name] Build worker list with availability badges
 [2025-12-02 11:35:02 +0500] [Person2Name] Add worker create form with all fields
+[2025-12-02 14:51:30 +0500] [Person2Name] Create worker edit form with password update
