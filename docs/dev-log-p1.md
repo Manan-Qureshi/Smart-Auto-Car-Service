@@ -793,3 +793,4 @@
 [2025-12-01 18:53:43 +0500] [Person1Name] Create payments table migration
 [2025-12-01 21:11:30 +0500] [Person1Name] Add Payment model with Stripe fields
 [2025-12-01 22:22:52 +0500] [Person1Name] Create ratings table migration
+[2025-12-02 10:24:38 +0500] [Person1Name] Add HomeController with location-based sorting
