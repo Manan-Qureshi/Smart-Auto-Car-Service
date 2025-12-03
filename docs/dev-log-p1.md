@@ -723,3 +723,5 @@
 [2025-11-16 12:31:28 +0500] [Person1Name] Add Worker model linked to service provider
 [2025-11-16 15:26:13 +0500] [Person1Name] Create car_models and car_types migrations
 [2025-11-16 16:14:11 +0500] [Person1Name] Add CarModel and CarType models
+[2025-11-16 20:12:41 +0500] [Person1Name] Create payments table migration
+[2025-11-16 22:44:05 +0500] [Person1Name] Add Payment model with Stripe fields
