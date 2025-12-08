@@ -801,3 +801,4 @@
 [2025-12-06 19:05:44 +0500] [Person2Name] Add remember me functionality to login
 [2025-12-06 22:01:25 +0500] [Person2Name] Configure Google social login callback
 [2025-12-08 10:03:25 +0500] [Person2Name] Create global error handling middleware
+[2025-12-08 13:13:27 +0500] [Person2Name] Add role-based access control middleware
