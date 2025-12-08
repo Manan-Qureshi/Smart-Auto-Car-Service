@@ -817,3 +817,4 @@
 [2025-12-06 19:24:52 +0500] [Person1Name] Integrate Stripe payment checkout flow
 [2025-12-06 21:25:25 +0500] [Person1Name] Handle Stripe webhook for payment confirmation
 [2025-12-08 11:40:39 +0500] [Person1Name] Add multi-service booking with total price
+[2025-12-08 13:21:15 +0500] [Person1Name] Update bookings schema for multi-service support
