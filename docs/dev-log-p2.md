@@ -807,3 +807,4 @@
 [2025-12-08 23:05:53 +0500] [Person2Name] Add Commission model and calculation logic
 [2025-12-09 10:45:49 +0500] [Person2Name] Create provider_services pivot migration
 [2025-12-09 13:22:26 +0500] [Person2Name] Add ProviderService model with toggle support
+[2025-12-09 17:25:24 +0500] [Person2Name] Create time_durations migration
