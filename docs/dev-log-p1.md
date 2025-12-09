@@ -747,3 +747,5 @@
 [2025-11-20 23:44:54 +0500] [Person1Name] Implement AJAX-based service cart system
 [2025-11-21 11:19:11 +0500] [Person1Name] Add cart sidebar to provider profile page
 [2025-11-21 14:11:17 +0500] [Person1Name] Create session-based cart API endpoints
+[2025-11-21 16:04:56 +0500] [Person1Name] Integrate Stripe payment checkout flow
+[2025-11-21 20:51:37 +0500] [Person1Name] Handle Stripe webhook for payment confirmation
