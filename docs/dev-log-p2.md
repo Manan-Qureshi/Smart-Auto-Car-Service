@@ -809,3 +809,4 @@
 [2025-12-09 13:22:26 +0500] [Person2Name] Add ProviderService model with toggle support
 [2025-12-09 17:25:24 +0500] [Person2Name] Create time_durations migration
 [2025-12-09 20:29:15 +0500] [Person2Name] Add TimeDuration model for service slots
+[2025-12-09 23:43:16 +0500] [Person2Name] Create timeslots migration
