@@ -812,3 +812,4 @@
 [2025-12-09 23:43:16 +0500] [Person2Name] Create timeslots migration
 [2025-12-10 11:04:40 +0500] [Person2Name] Add Slot model for availability management
 [2025-12-10 13:54:41 +0500] [Person2Name] Add foreign key constraints to bookings
+[2025-12-10 14:28:01 +0500] [Person2Name] Create admin seeder with default account
