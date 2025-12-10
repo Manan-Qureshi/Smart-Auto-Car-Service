@@ -826,3 +826,4 @@
 [2025-12-09 17:29:00 +0500] [Person1Name] Add service toggle (on/off) for providers
 [2025-12-09 19:03:44 +0500] [Person1Name] Implement nearest provider sorting algorithm
 [2025-12-09 22:04:11 +0500] [Person1Name] Fix booking cancellation with Stripe refund
+[2025-12-10 11:29:04 +0500] [Person1Name] Add CNIC and address fields to worker form
