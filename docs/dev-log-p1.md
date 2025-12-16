@@ -858,3 +858,4 @@
 [2025-12-16 11:28:20 +0500] [Person1Name] Create car_models and car_types migrations
 [2025-12-16 13:56:29 +0500] [Person1Name] Add CarModel and CarType models
 [2025-12-16 16:03:35 +0500] [Person1Name] Create payments table migration
+[2025-12-16 19:24:40 +0500] [Person1Name] Add Payment model with Stripe fields
