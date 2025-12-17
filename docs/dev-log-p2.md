@@ -360,3 +360,4 @@
 [2026-01-14 15:30:08 +0500] [Person2Name] Add Commission model and calculation logic
 [2026-01-14 18:36:40 +0500] [Person2Name] Create provider_services pivot migration
 [2026-01-14 20:09:09 +0500] [Person2Name] Add ProviderService model with toggle support
+[2026-01-14 22:49:45 +0500] [Person2Name] Create time_durations migration
