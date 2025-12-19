@@ -364,3 +364,4 @@
 [2026-01-15 11:26:12 +0500] [Person2Name] Add TimeDuration model for service slots
 [2026-01-15 13:23:40 +0500] [Person2Name] Create timeslots migration
 [2026-01-15 16:53:41 +0500] [Person2Name] Add Slot model for availability management
+[2026-01-15 20:10:29 +0500] [Person2Name] Add foreign key constraints to bookings
