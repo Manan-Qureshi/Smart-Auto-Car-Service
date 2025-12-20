@@ -265,3 +265,4 @@
 [2025-12-20 16:42:19 +0500] [Person2Name] Add admin provider list with status badges
 [2025-12-20 19:19:40 +0500] [Person2Name] Build service management page for admin
 [2025-12-20 21:52:46 +0500] [Person2Name] Create car management page for admin
+[2025-12-20 23:29:15 +0500] [Person2Name] Add provider service toggle switches
