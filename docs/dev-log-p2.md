@@ -839,3 +839,4 @@
 [2025-12-25 10:09:55 +0500] [Person2Name] Implement FCFS booking queue for workers
 [2025-12-25 12:48:37 +0500] [Person2Name] Add booking assign dropdown in worker column
 [2025-12-25 14:27:40 +0500] [Person2Name] Remove redundant actions column from dashboard
+[2025-12-25 16:31:33 +0500] [Person2Name] Update booking stats in provider dashboard
