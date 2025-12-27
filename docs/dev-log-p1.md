@@ -779,3 +779,4 @@
 [2025-11-28 10:19:31 +0500] [Person1Name] Add footer with dark theme and social links
 [2025-11-28 14:13:23 +0500] [Person1Name] Set up Vite asset bundling
 [2025-11-28 18:36:21 +0500] [Person1Name] Create users table migration
+[2025-11-28 21:06:20 +0500] [Person1Name] Add User model with role management
