@@ -279,3 +279,4 @@
 [2025-12-27 10:42:40 +0500] [Person2Name] Update booking stats in provider dashboard
 [2025-12-27 13:22:03 +0500] [Person2Name] Add live chat feature with Pusher
 [2025-12-27 14:07:55 +0500] [Person2Name] Add customer rating and review submission
+[2025-12-27 17:25:23 +0500] [Person2Name] Display average rating on provider card
