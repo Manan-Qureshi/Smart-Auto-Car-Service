@@ -886,3 +886,4 @@
 [2025-12-26 23:19:25 +0500] [Person1Name] Add multi-service booking with total price
 [2025-12-27 10:29:19 +0500] [Person1Name] Update bookings schema for multi-service support
 [2025-12-27 13:46:12 +0500] [Person1Name] Add real-time booking status via Pusher
+[2025-12-27 16:09:08 +0500] [Person1Name] Configure WebSocket broadcast channels
