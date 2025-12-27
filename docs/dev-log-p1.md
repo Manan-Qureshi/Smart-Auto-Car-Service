@@ -888,3 +888,4 @@
 [2025-12-27 13:46:12 +0500] [Person1Name] Add real-time booking status via Pusher
 [2025-12-27 16:09:08 +0500] [Person1Name] Configure WebSocket broadcast channels
 [2025-12-27 18:59:03 +0500] [Person1Name] Implement worker assignment by provider
+[2025-12-27 20:45:36 +0500] [Person1Name] Add first-come-first-served status rules

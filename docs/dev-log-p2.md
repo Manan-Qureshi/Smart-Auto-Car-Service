@@ -386,3 +386,4 @@
 [2026-01-23 21:25:06 +0500] [Person2Name] Build worker list with availability badges
 [2026-01-26 10:54:38 +0500] [Person2Name] Add worker create form with all fields
 [2026-01-26 12:40:20 +0500] [Person2Name] Create worker edit form with password update
+[2026-01-26 15:28:47 +0500] [Person2Name] Style provider workers index page
