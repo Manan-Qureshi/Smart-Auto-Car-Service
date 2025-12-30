@@ -795,3 +795,4 @@
 [2025-12-01 22:22:52 +0500] [Person1Name] Create ratings table migration
 [2025-12-02 10:24:38 +0500] [Person1Name] Add HomeController with location-based sorting
 [2025-12-02 12:48:12 +0500] [Person1Name] Create ProviderController with public profile
+[2025-12-02 15:08:10 +0500] [Person1Name] Add BookingController store and confirmation
