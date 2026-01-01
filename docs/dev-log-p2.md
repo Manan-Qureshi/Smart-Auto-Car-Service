@@ -873,3 +873,4 @@
 [2026-01-01 12:17:06 +0500] [Person2Name] Create admin seeder with default account
 [2026-01-01 16:52:54 +0500] [Person2Name] Add nearby providers API with geolocation
 [2026-01-01 19:22:33 +0500] [Person2Name] Create available timeslots API endpoint
+[2026-01-01 20:04:36 +0500] [Person2Name] Add car models API for dynamic dropdown
