@@ -918,3 +918,4 @@
 [2026-01-05 23:06:35 +0500] [Person1Name] Add ServiceProvider model and relationships
 [2026-01-06 10:51:19 +0500] [Person1Name] Create services and service_categories migrations
 [2026-01-06 12:46:15 +0500] [Person1Name] Add Service model with price and duration fields
+[2026-01-06 16:36:30 +0500] [Person1Name] Create bookings table migration
