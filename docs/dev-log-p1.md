@@ -920,3 +920,4 @@
 [2026-01-06 12:46:15 +0500] [Person1Name] Add Service model with price and duration fields
 [2026-01-06 16:36:30 +0500] [Person1Name] Create bookings table migration
 [2026-01-06 19:23:47 +0500] [Person1Name] Add Booking model with status constants
+[2026-01-06 20:21:30 +0500] [Person1Name] Create workers table migration
