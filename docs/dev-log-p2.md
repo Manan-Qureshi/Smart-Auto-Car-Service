@@ -896,3 +896,4 @@
 [2026-01-07 20:14:47 +0500] [Person2Name] Create worker booking status dashboard
 [2026-01-07 21:55:07 +0500] [Person2Name] Implement FCFS booking queue for workers
 [2026-01-08 00:50:54 +0500] [Person2Name] Add booking assign dropdown in worker column
+[2026-01-08 10:50:42 +0500] [Person2Name] Remove redundant actions column from dashboard
