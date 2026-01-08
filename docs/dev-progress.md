@@ -78,3 +78,4 @@ worked on home page
 added icons
 js script
 database setup
+added users
