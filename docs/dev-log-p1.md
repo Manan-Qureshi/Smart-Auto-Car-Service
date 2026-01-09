@@ -833,3 +833,4 @@
 [2025-12-10 20:23:46 +0500] [Person1Name] Improve admin financial reports page
 [2025-12-10 22:11:56 +0500] [Person1Name] Add commission calculation on booking completion
 [2025-12-11 00:27:44 +0500] [Person1Name] Final UI polish and accessibility improvements
+[2025-12-11 10:48:49 +0500] [Person1Name] Update .env.example with required keys
