@@ -79,3 +79,4 @@ added icons
 js script
 database setup
 added users
+fix nav bar
