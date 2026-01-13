@@ -855,3 +855,4 @@
 [2025-12-15 20:55:31 +0500] [Person1Name] Add Booking model with status constants
 [2025-12-15 21:06:18 +0500] [Person1Name] Create workers table migration
 [2025-12-15 23:00:52 +0500] [Person1Name] Add Worker model linked to service provider
+[2025-12-16 11:28:20 +0500] [Person1Name] Create car_models and car_types migrations
