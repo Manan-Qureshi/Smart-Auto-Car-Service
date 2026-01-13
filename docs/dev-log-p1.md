@@ -853,3 +853,4 @@
 [2025-12-15 15:33:26 +0500] [Person1Name] Add Service model with price and duration fields
 [2025-12-15 16:10:29 +0500] [Person1Name] Create bookings table migration
 [2025-12-15 20:55:31 +0500] [Person1Name] Add Booking model with status constants
+[2025-12-15 21:06:18 +0500] [Person1Name] Create workers table migration
