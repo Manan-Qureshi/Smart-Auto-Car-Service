@@ -82,3 +82,4 @@ added users
 fix nav bar
 hero section done
 added images
+login page ui
