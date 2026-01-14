@@ -926,3 +926,4 @@
 [2026-01-13 15:50:59 +0500] [Person2Name] Create time_durations migration
 [2026-01-13 18:29:49 +0500] [Person2Name] Add TimeDuration model for service slots
 [2026-01-13 21:45:48 +0500] [Person2Name] Create timeslots migration
+[2026-01-14 10:17:41 +0500] [Person2Name] Add Slot model for availability management
