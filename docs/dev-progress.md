@@ -84,3 +84,4 @@ hero section done
 added images
 login page ui
 registration form
+worked on sidebar
