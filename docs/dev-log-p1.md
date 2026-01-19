@@ -952,3 +952,4 @@
 [2026-01-16 19:20:16 +0500] [Person1Name] Handle Stripe webhook for payment confirmation
 [2026-01-16 22:49:17 +0500] [Person1Name] Add multi-service booking with total price
 [2026-01-19 10:53:24 +0500] [Person1Name] Update bookings schema for multi-service support
+[2026-01-19 12:23:13 +0500] [Person1Name] Add real-time booking status via Pusher
