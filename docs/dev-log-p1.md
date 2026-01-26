@@ -891,3 +891,4 @@
 [2025-12-27 20:45:36 +0500] [Person1Name] Add first-come-first-served status rules
 [2025-12-27 22:12:37 +0500] [Person1Name] Create working hours management for providers
 [2025-12-28 11:14:58 +0500] [Person1Name] Add service toggle (on/off) for providers
+[2025-12-28 14:17:30 +0500] [Person1Name] Implement nearest provider sorting algorithm
