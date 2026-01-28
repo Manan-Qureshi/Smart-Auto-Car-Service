@@ -393,3 +393,5 @@
 [2026-01-27 11:46:17 +0500] [Person2Name] Add booking assign dropdown in worker column
 [2026-01-27 14:24:31 +0500] [Person2Name] Remove redundant actions column from dashboard
 [2026-01-27 18:21:12 +0500] [Person2Name] Update booking stats in provider dashboard
+[2026-01-27 21:33:38 +0500] [Person2Name] Add live chat feature with Pusher
+[2026-01-28 11:38:30 +0500] [Person2Name] Add customer rating and review submission
