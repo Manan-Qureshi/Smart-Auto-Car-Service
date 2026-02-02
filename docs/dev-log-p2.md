@@ -481,3 +481,5 @@
 [2026-02-25 19:20:27 +0500] [Person2Name] Create timeslots migration
 [2026-02-25 21:18:17 +0500] [Person2Name] Add Slot model for availability management
 [2026-02-27 10:17:25 +0500] [Person2Name] Add foreign key constraints to bookings
+[2026-02-27 15:42:28 +0500] [Person2Name] Create admin seeder with default account
+[2026-02-27 18:05:20 +0500] [Person2Name] Add nearby providers API with geolocation
