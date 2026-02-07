@@ -109,3 +109,4 @@ map icon
 location detect
 booking status
 pusher config
+realtime test
