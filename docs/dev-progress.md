@@ -113,3 +113,4 @@ realtime test
 cart system
 ajax fix
 dashboard icons
+worker list
