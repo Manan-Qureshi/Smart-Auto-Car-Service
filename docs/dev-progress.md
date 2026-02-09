@@ -111,3 +111,4 @@ booking status
 pusher config
 realtime test
 cart system
+ajax fix
