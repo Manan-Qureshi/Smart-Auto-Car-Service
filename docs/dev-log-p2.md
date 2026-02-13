@@ -1004,3 +1004,4 @@
 [2026-02-11 22:57:17 +0500] [Person2Name] Create car management page for admin
 [2026-02-13 10:51:57 +0500] [Person2Name] Add provider service toggle switches
 [2026-02-13 13:30:52 +0500] [Person2Name] Create working hours form for providers
+[2026-02-13 15:04:30 +0500] [Person2Name] Build worker list with availability badges
