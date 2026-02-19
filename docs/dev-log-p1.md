@@ -455,3 +455,4 @@
 [2026-02-13 23:13:10 +0500] [Person1Name] Implement worker assignment by provider
 [2026-02-19 10:31:58 +0500] [Person1Name] Add first-come-first-served status rules
 [2026-02-19 13:02:36 +0500] [Person1Name] Create working hours management for providers
+[2026-02-19 15:38:55 +0500] [Person1Name] Add service toggle (on/off) for providers
