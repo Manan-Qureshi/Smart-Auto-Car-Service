@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: feat: add API routes file for mobile client endpoints (2026-02-22)
-
-// change: feat: add API routes file for mobile client endpoints (2026-02-22)
