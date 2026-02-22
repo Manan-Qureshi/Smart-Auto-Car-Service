@@ -534,3 +534,4 @@
 [2026-03-18 13:35:50 +0500] [Person2Name] Create provider_services pivot migration
 [2026-03-18 14:00:42 +0500] [Person2Name] Add ProviderService model with toggle support
 [2026-03-18 16:40:43 +0500] [Person2Name] Create time_durations migration
+[2026-03-18 20:13:26 +0500] [Person2Name] Add TimeDuration model for service slots

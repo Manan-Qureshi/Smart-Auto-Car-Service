@@ -1025,3 +1025,5 @@
 [2026-02-21 23:58:21 +0500] [Person1Name] Add first-come-first-served status rules
 [2026-02-22 11:40:44 +0500] [Person1Name] Create working hours management for providers
 [2026-02-22 14:09:52 +0500] [Person1Name] Add service toggle (on/off) for providers
+[2026-02-22 19:01:34 +0500] [Person1Name] Implement nearest provider sorting algorithm
+[2026-02-22 22:35:26 +0500] [Person1Name] Fix booking cancellation with Stripe refund
