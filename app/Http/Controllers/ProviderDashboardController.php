@@ -1,0 +1,78 @@
+<?php
+
+namespace App\Http\Controllers;
+
+use Illuminate\Http\Request;
+use Illuminate\Support\Facades\Auth;
+use App\Models\Booking;
+use App\Models\Worker;
+use App\Models\ServiceProvider;
+
+class ProviderDashboardController extends Controller
+{
+    private function getProvider()
+    {
+        $sp = Auth::user()->serviceProvider;
+        if (! $sp) {
+            return null;
+        }
+        return $sp;
+    }
+
+    public function index()
+    {
+        $provider = $this->getProvider();
+
+        // Account exists but admin hasn't set up the provider profile yet
+        if (! $provider) {
+            return view('provider.pending');
+        }
+
+        $bookings = Booking::with(['user', 'service', 'carModel', 'worker'])
+            ->where('service_provider_id', $provider->id)
+            ->latest()
+            ->get();
+
+        $workers = $provider->workers()->get();
+
+        $stats = [
+            'total'     => $bookings->count(),
+            'pending'   => $bookings->whereIn('status', ['confirmed', 'payment_pending'])->count(),
+            'active'    => $bookings->whereIn('status', ['accepted', 'assigned', 'in_progress'])->count(),
+            'completed' => $bookings->where('status', 'completed')->count(),
+        ];
+
+        return view('provider.dashboard', compact('provider', 'bookings', 'workers', 'stats'));
+    }
+
+    public function assign(Request $request, Booking $booking)
+    {
+        $provider = $this->getProvider();
+        abort_unless($booking->service_provider_id === $provider->id, 403);
+
+        $request->validate(['worker_id' => 'required|exists:workers,id']);
+
+        $worker = Worker::where('id', $request->worker_id)
+            ->where('service_provider_id', $provider->id)
+            ->firstOrFail();
+
+        $booking->update([
+            'provider_worker_id' => $worker->id,
+            'status'             => 'assigned',
+        ]);
+
+        return back()->with('success', 'Worker "' . $worker->name . '" assigned to booking.');
+    }
+
+    public function updateBookingStatus(Request $request, Booking $booking)
+    {
+        $provider = $this->getProvider();
+        abort_unless($booking->service_provider_id === $provider->id, 403);
+
+        $request->validate(['status' => 'required|in:accepted,assigned,in_progress,completed,cancelled']);
+
+        $booking->update(['status' => $request->status]);
+
+        return back()->with('success', 'Booking updated to ' . ucfirst(str_replace('_', ' ', $request->status)) . '.');
+    }
+}

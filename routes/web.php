@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add Invoice model with order relationship (2026-02-23)
+// change: feat: create InvoiceController with generate method (2026-02-23)
 
-// change: feat: add Invoice model with order relationship (2026-02-23)
+// change: feat: create InvoiceController with generate method (2026-02-23)
