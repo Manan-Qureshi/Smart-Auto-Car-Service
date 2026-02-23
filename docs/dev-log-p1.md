@@ -1029,3 +1029,4 @@
 [2026-02-22 22:35:26 +0500] [Person1Name] Fix booking cancellation with Stripe refund
 [2026-02-23 10:48:08 +0500] [Person1Name] Add CNIC and address fields to worker form
 [2026-02-23 14:56:32 +0500] [Person1Name] Link worker accounts to users table for login
+[2026-02-23 17:38:34 +0500] [Person1Name] Fix mobile responsiveness on provider page
