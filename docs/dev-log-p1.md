@@ -967,3 +967,4 @@
 [2026-01-22 19:39:37 +0500] [Person1Name] Improve admin financial reports page
 [2026-01-22 21:02:04 +0500] [Person1Name] Add commission calculation on booking completion
 [2026-01-26 11:38:21 +0500] [Person1Name] Final UI polish and accessibility improvements
+[2026-01-26 12:36:46 +0500] [Person1Name] Update .env.example with required keys
