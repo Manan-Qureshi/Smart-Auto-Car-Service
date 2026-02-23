@@ -1030,3 +1030,4 @@
 [2026-02-23 10:48:08 +0500] [Person1Name] Add CNIC and address fields to worker form
 [2026-02-23 14:56:32 +0500] [Person1Name] Link worker accounts to users table for login
 [2026-02-23 17:38:34 +0500] [Person1Name] Fix mobile responsiveness on provider page
+[2026-02-23 19:04:21 +0500] [Person1Name] Add session-based car selection persistence
