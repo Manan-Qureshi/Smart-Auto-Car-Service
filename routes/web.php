@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: feat: add Invoice model with order relationship (2026-02-23)
+
+// change: feat: add Invoice model with order relationship (2026-02-23)
