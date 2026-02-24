@@ -117,6 +117,6 @@ class DashboardController extends Controller
 }
 
 
-// update: feat: create AdminController with dashboard method (2026-02-23)
+// update: feat: add admin dashboard blade layout and views (2026-02-23)
 
-// update: feat: create AdminController with dashboard method (2026-02-23)
+// update: feat: add admin dashboard blade layout and views (2026-02-24)
