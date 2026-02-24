@@ -475,3 +475,4 @@
 [2026-02-24 13:06:11 +0500] [Person2Name] Create commission tracking migration
 [2026-02-24 16:09:09 +0500] [Person2Name] Add Commission model and calculation logic
 [2026-02-24 20:46:54 +0500] [Person2Name] Create provider_services pivot migration
+[2026-02-24 23:22:51 +0500] [Person2Name] Add ProviderService model with toggle support
