@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: create UserController API resource endpoints (2026-02-23)
+// change: feat: add product API endpoint with JSON response (2026-02-23)
 
-// change: feat: create UserController API resource endpoints (2026-02-24)
+// change: feat: add product API endpoint with JSON response (2026-02-25)
