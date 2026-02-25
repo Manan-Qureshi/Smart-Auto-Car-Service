@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add product API endpoint with JSON response (2026-02-23)
+// change: feat: implement API auth using Laravel Sanctum (2026-02-23)
 
-// change: feat: add product API endpoint with JSON response (2026-02-25)
+// change: feat: implement API auth using Laravel Sanctum (2026-02-25)
