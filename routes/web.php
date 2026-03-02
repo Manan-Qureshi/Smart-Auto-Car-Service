@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: docs: added column descriptions to database schema doc (2026-02-28)
+// change: feat: add invoice PDF blade view template (2026-03-03)
 
-// change: docs: added column descriptions to database schema doc (2026-03-02)
+// change: feat: add invoice PDF blade view template (2026-03-02)
