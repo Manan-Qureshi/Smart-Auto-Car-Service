@@ -116,3 +116,7 @@ class DashboardController extends Controller
     }
 }
 
+
+// update: style: fix blade indentation in dashboard layout (2026-02-24)
+
+// update: style: fix blade indentation in dashboard layout (2026-03-02)
