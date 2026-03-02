@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add invoice PDF blade view template (2026-03-03)
+// change: fix: correct foreign key constraint on invoices table (2026-03-03)
 
-// change: feat: add invoice PDF blade view template (2026-03-02)
+// change: fix: correct foreign key constraint on invoices table (2026-03-02)
