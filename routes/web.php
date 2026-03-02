@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: docs: added column descriptions to database schema doc (2026-02-28)
+
+// change: docs: added column descriptions to database schema doc (2026-03-02)
