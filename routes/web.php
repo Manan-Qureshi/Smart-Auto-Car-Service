@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: dispatch order job from OrderController on store (2026-03-05)
+// change: feat: add OrderPlaced event class (2026-03-05)
 
-// change: feat: dispatch order job from OrderController on store (2026-03-03)
+// change: feat: add OrderPlaced event class (2026-03-03)
