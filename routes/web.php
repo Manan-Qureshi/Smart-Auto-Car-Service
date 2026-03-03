@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix: correct foreign key constraint on invoices table (2026-03-03)
+// change: docs: document API endpoints and request payload format (2026-03-05)
 
-// change: fix: correct foreign key constraint on invoices table (2026-03-02)
+// change: docs: document API endpoints and request payload format (2026-03-03)
