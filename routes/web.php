@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: feat: add GenerateReport queued job with database driver (2026-03-05)
+
+// change: feat: add GenerateReport queued job with database driver (2026-03-03)

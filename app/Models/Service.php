@@ -42,7 +42,3 @@ class Service extends Model
                     ->withTimestamps();
     }
 }
-
-// update: feat: register events and listeners in EventServiceProvider (2026-03-05)
-
-// update: feat: register events and listeners in EventServiceProvider (2026-03-03)
