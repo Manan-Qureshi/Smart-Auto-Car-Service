@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: docs: document API endpoints and request payload format (2026-03-05)
+// change: feat: dispatch order job from OrderController on store (2026-03-05)
 
-// change: docs: document API endpoints and request payload format (2026-03-03)
+// change: feat: dispatch order job from OrderController on store (2026-03-03)
