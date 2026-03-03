@@ -1050,3 +1050,4 @@
 [2026-03-03 13:29:46 +0500] [Person1Name] Add User model with role management
 [2026-03-03 16:32:23 +0500] [Person1Name] Create service_providers table migration
 [2026-03-03 18:47:37 +0500] [Person1Name] Add ServiceProvider model and relationships
+[2026-03-03 20:38:13 +0500] [Person1Name] Create services and service_categories migrations
