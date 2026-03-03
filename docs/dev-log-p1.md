@@ -484,3 +484,4 @@
 [2026-03-02 22:09:03 +0500] [Person1Name] Create services and service_categories migrations
 [2026-03-03 11:11:26 +0500] [Person1Name] Add Service model with price and duration fields
 [2026-03-03 14:28:48 +0500] [Person1Name] Create bookings table migration
+[2026-03-03 17:28:40 +0500] [Person1Name] Add Booking model with status constants
