@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add product image upload with storage disk (2026-03-09)
+// change: feat: add ProductFactory with category association (2026-03-09)
 
-// change: feat: add product image upload with storage disk (2026-03-08)
+// change: feat: add ProductFactory with category association (2026-03-08)
