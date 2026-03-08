@@ -42,3 +42,7 @@ class Service extends Model
                     ->withTimestamps();
     }
 }
+
+// update: refactor: clean up OrderController, extract to OrderService (2026-03-09)
+
+// update: refactor: clean up OrderController, extract to OrderService (2026-03-08)
