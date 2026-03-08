@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add ProductFactory with category association (2026-03-09)
+// change: feat: create DatabaseSeeder calling all seeders (2026-03-09)
 
-// change: feat: add ProductFactory with category association (2026-03-08)
+// change: feat: create DatabaseSeeder calling all seeders (2026-03-08)
