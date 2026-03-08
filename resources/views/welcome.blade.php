@@ -215,3 +215,6 @@
     </script>
 
 @endpush
+// update: feat: add UserRegistered event with welcome email listener (2026-03-05)
+
+// update: feat: add UserRegistered event with welcome email listener (2026-03-08)
