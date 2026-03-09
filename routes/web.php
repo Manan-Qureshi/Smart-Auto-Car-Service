@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: refactor: move image resize logic to ImageHelper trait (2026-03-10)
+// change: refactor: extract shared blade partials into components (2026-03-10)
 
-// change: refactor: move image resize logic to ImageHelper trait (2026-03-09)
+// change: refactor: extract shared blade partials into components (2026-03-09)
