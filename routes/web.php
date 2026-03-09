@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add ProductSeeder with 50 sample products (2026-03-09)
+// change: feat: add CategorySeeder with initial categories (2026-03-09)
 
-// change: feat: add ProductSeeder with 50 sample products (2026-03-09)
+// change: feat: add CategorySeeder with initial categories (2026-03-09)
