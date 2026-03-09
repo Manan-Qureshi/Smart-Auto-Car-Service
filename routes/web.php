@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add CategorySeeder with initial categories (2026-03-09)
+// change: refactor: move image resize logic to ImageHelper trait (2026-03-10)
 
-// change: feat: add CategorySeeder with initial categories (2026-03-09)
+// change: refactor: move image resize logic to ImageHelper trait (2026-03-09)
