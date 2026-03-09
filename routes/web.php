@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: create DatabaseSeeder calling all seeders (2026-03-09)
+// change: feat: add ProductSeeder with 50 sample products (2026-03-09)
 
-// change: feat: create DatabaseSeeder calling all seeders (2026-03-08)
+// change: feat: add ProductSeeder with 50 sample products (2026-03-09)
