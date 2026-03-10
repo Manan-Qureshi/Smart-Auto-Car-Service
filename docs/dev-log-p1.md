@@ -1059,3 +1059,4 @@
 [2026-03-04 20:03:07 +0500] [Person1Name] Create car_models and car_types migrations
 [2026-03-04 22:19:03 +0500] [Person1Name] Add CarModel and CarType models
 [2026-03-10 11:53:16 +0500] [Person1Name] Create payments table migration
+[2026-03-10 12:37:43 +0500] [Person1Name] Add Payment model with Stripe fields
