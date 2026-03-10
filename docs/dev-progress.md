@@ -148,3 +148,4 @@ error message change
 test booking
 confirm page
 mail test
+alert box fix
