@@ -111,7 +111,3 @@ class CartController extends Controller
         ]);
     }
 }
-
-// update: fix: order total not recalculating after cart item removed (2026-03-10)
-
-// update: fix: order total not recalculating after cart item removed (2026-03-09)
