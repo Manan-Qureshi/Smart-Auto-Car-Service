@@ -215,6 +215,3 @@
     </script>
 
 @endpush
-// update: feat: add flash message component to base layout (2026-03-10)
-
-// update: feat: add flash message component to base layout (2026-03-10)
