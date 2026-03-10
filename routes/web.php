@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: test: add feature test for product listing and search (2026-03-10)
+// change: test: write unit test for discount calculation logic (2026-03-14)
 
-// change: test: add feature test for product listing and search (2026-03-10)
+// change: test: write unit test for discount calculation logic (2026-03-10)
