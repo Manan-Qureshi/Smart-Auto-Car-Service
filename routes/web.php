@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: test: write test for API authentication endpoint (2026-03-14)
+
+// change: test: write test for API authentication endpoint (2026-03-10)
