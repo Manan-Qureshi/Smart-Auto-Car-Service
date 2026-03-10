@@ -111,3 +111,7 @@ class CartController extends Controller
         ]);
     }
 }
+
+// update: test: add unit test for CartService item calculations (2026-03-14)
+
+// update: test: add unit test for CartService item calculations (2026-03-10)
