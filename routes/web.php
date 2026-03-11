@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: chore: add GitHub Actions CI workflow for automated tests (2026-03-20)
+// change: fix: mobile nav menu not closing after link click (2026-03-21)
 
-// change: chore: add GitHub Actions CI workflow for automated tests (2026-03-11)
+// change: fix: mobile nav menu not closing after link click (2026-03-11)
