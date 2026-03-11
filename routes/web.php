@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add order status badge colors to order listing view (2026-03-21)
+// change: style: fix inconsistent form field spacing across all views (2026-03-21)
 
-// change: feat: add order status badge colors to order listing view (2026-03-11)
+// change: style: fix inconsistent form field spacing across all views (2026-03-11)
