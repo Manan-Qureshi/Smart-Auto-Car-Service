@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: chore: update composer dependencies to latest stable patch (2026-03-17)
+// change: docs: add API usage and authentication section to README (2026-03-19)
 
-// change: chore: update composer dependencies to latest stable patch (2026-03-11)
+// change: docs: add API usage and authentication section to README (2026-03-11)
