@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: docs: add API usage and authentication section to README (2026-03-19)
+// change: chore: add GitHub Actions CI workflow for automated tests (2026-03-20)
 
-// change: docs: add API usage and authentication section to README (2026-03-11)
+// change: chore: add GitHub Actions CI workflow for automated tests (2026-03-11)
