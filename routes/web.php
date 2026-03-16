@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix: stock not decrementing after successful order placement (2026-03-25)
+// change: feat: add order export to CSV functionality in admin (2026-03-29)
 
-// change: fix: stock not decrementing after successful order placement (2026-03-16)
+// change: feat: add order export to CSV functionality in admin (2026-03-16)
