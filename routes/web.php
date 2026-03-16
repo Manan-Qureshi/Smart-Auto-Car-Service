@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: refactor: consolidate duplicate query logic in ProductController (2026-03-21)
+// change: fix: stock not decrementing after successful order placement (2026-03-25)
 
-// change: refactor: consolidate duplicate query logic in ProductController (2026-03-16)
+// change: fix: stock not decrementing after successful order placement (2026-03-16)
