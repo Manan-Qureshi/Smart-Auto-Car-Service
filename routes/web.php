@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: style: fix inconsistent form field spacing across all views (2026-03-21)
+// change: refactor: consolidate duplicate query logic in ProductController (2026-03-21)
 
-// change: style: fix inconsistent form field spacing across all views (2026-03-11)
+// change: refactor: consolidate duplicate query logic in ProductController (2026-03-16)
