@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: chore: add telescope package for local debugging (2026-03-29)
-
-// change: chore: add telescope package for local debugging (2026-03-17)
