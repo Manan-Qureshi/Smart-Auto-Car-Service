@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix: admin order filter not applying date range correctly (2026-03-29)
+// change: feat: add product soft delete with restore option in admin (2026-03-29)
 
-// change: fix: admin order filter not applying date range correctly (2026-03-16)
+// change: feat: add product soft delete with restore option in admin (2026-03-17)
