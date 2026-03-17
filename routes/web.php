@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add product soft delete with restore option in admin (2026-03-29)
+// change: chore: add telescope package for local debugging (2026-03-29)
 
-// change: feat: add product soft delete with restore option in admin (2026-03-17)
+// change: chore: add telescope package for local debugging (2026-03-17)
