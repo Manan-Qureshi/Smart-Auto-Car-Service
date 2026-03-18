@@ -530,3 +530,4 @@
 [2026-03-16 15:55:45 +0500] [Person2Name] Add role-based access control middleware
 [2026-03-16 18:06:58 +0500] [Person2Name] Set up database seeders for testing
 [2026-03-16 22:44:48 +0500] [Person2Name] Create commission tracking migration
+[2026-03-18 10:28:00 +0500] [Person2Name] Add Commission model and calculation logic
