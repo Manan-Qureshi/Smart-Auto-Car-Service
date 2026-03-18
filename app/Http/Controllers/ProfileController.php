@@ -61,7 +61,3 @@ class ProfileController extends Controller
         return redirect()->route('profile.edit')->with('success', 'Profile updated successfully.');
     }
 }
-
-// update: feat: add user profile update form and controller method (2026-04-01)
-
-// update: feat: add user profile update form and controller method (2026-03-17)
