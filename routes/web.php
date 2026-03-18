@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: create low stock notification for admin via email (2026-04-01)
+// change: feat: trigger low stock notification when quantity below 5 (2026-04-02)
 
-// change: feat: create low stock notification for admin via email (2026-03-18)
+// change: feat: trigger low stock notification when quantity below 5 (2026-03-18)
