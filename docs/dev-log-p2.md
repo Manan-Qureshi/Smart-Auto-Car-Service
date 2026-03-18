@@ -531,3 +531,6 @@
 [2026-03-16 18:06:58 +0500] [Person2Name] Set up database seeders for testing
 [2026-03-16 22:44:48 +0500] [Person2Name] Create commission tracking migration
 [2026-03-18 10:28:00 +0500] [Person2Name] Add Commission model and calculation logic
+[2026-03-18 13:35:50 +0500] [Person2Name] Create provider_services pivot migration
+[2026-03-18 14:00:42 +0500] [Person2Name] Add ProviderService model with toggle support
+[2026-03-18 16:40:43 +0500] [Person2Name] Create time_durations migration
