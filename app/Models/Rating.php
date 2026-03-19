@@ -32,3 +32,7 @@ class Rating extends Model
         return $this->belongsTo(ServiceProvider::class);
     }
 }
+
+// update: feat: add star rating blade component for product page (2026-04-05)
+
+// update: feat: add star rating blade component for product page (2026-03-19)
