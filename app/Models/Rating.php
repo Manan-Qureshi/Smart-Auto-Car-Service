@@ -32,7 +32,3 @@ class Rating extends Model
         return $this->belongsTo(ServiceProvider::class);
     }
 }
-
-// update: feat: add product review and rating system migration (2026-04-05)
-
-// update: feat: add product review and rating system migration (2026-03-19)
