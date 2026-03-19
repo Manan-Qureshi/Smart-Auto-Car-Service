@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: trigger low stock notification when quantity below 5 (2026-04-02)
+// change: fix: notification not sending when stock hits exactly zero (2026-04-02)
 
-// change: feat: trigger low stock notification when quantity below 5 (2026-03-18)
+// change: fix: notification not sending when stock hits exactly zero (2026-03-19)
