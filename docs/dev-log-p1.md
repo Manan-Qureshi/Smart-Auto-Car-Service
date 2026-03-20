@@ -549,3 +549,4 @@
 [2026-03-19 23:14:10 +0500] [Person1Name] Create service_providers table migration
 [2026-03-20 11:44:07 +0500] [Person1Name] Add ServiceProvider model and relationships
 [2026-03-20 15:16:32 +0500] [Person1Name] Create services and service_categories migrations
+[2026-03-20 19:39:19 +0500] [Person1Name] Add Service model with price and duration fields
