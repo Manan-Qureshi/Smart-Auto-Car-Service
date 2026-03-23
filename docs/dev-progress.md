@@ -156,3 +156,4 @@ csv export
 time rounding
 toast notification
 eager loading fix
+dark mode test
