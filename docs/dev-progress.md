@@ -154,3 +154,4 @@ image upload
 thumbnail fix
 csv export
 time rounding
+toast notification
