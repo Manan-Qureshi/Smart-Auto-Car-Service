@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: feat: add related products section to product detail view (2026-04-07)
+
+// change: feat: add related products section to product detail view (2026-03-25)

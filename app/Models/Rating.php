@@ -32,7 +32,3 @@ class Rating extends Model
         return $this->belongsTo(ServiceProvider::class);
     }
 }
-
-// update: refactor: move rating calculation to Product model scope (2026-04-07)
-
-// update: refactor: move rating calculation to Product model scope (2026-03-25)
