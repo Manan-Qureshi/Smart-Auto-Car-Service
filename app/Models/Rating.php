@@ -33,6 +33,6 @@ class Rating extends Model
     }
 }
 
-// update: fix: rating average not recalculating after review deleted (2026-04-05)
+// update: refactor: move rating calculation to Product model scope (2026-04-07)
 
-// update: fix: rating average not recalculating after review deleted (2026-03-25)
+// update: refactor: move rating calculation to Product model scope (2026-03-25)
