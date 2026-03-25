@@ -1127,3 +1127,4 @@
 [2026-03-25 00:08:35 +0500] [Person1Name] Add CarModel and CarType models
 [2026-03-25 11:24:33 +0500] [Person1Name] Create payments table migration
 [2026-03-25 12:29:31 +0500] [Person1Name] Add Payment model with Stripe fields
+[2026-03-25 15:35:30 +0500] [Person1Name] Create ratings table migration
