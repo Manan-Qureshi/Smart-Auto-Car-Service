@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: fix: product image not showing fallback when null (2026-04-07)
-
-// change: fix: product image not showing fallback when null (2026-03-26)
