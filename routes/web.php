@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix: related products showing current product in list (2026-04-07)
+// change: chore: update CI workflow to run on pull_request event too (2026-04-07)
 
-// change: fix: related products showing current product in list (2026-03-26)
+// change: chore: update CI workflow to run on pull_request event too (2026-03-26)
