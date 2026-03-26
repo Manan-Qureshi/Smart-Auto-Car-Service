@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: feat: add related products section to product detail view (2026-04-07)
+// change: fix: related products showing current product in list (2026-04-07)
 
-// change: feat: add related products section to product detail view (2026-03-25)
+// change: fix: related products showing current product in list (2026-03-26)
