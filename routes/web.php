@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: chore: update CI workflow to run on pull_request event too (2026-04-07)
+// change: fix: product image not showing fallback when null (2026-04-07)
 
-// change: chore: update CI workflow to run on pull_request event too (2026-03-26)
+// change: fix: product image not showing fallback when null (2026-03-26)
