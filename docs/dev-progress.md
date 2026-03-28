@@ -164,3 +164,4 @@ pagination fix
 search bar
 soft deletes
 grouped routes
+cache setup
