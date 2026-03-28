@@ -165,3 +165,4 @@ search bar
 soft deletes
 grouped routes
 cache setup
+loading spinner
