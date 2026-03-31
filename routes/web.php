@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix: breadcrumb not updating on nested category pages (2026-04-07)
+// change: chore: register sitemap command in Kernel (2026-04-09)
 
-// change: fix: breadcrumb not updating on nested category pages (2026-03-31)
+// change: chore: register sitemap command in Kernel (2026-03-31)
