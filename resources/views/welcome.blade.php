@@ -215,6 +215,3 @@
     </script>
 
 @endpush
-// update: feat: add breadcrumb navigation component to layouts (2026-04-07)
-
-// update: feat: add breadcrumb navigation component to layouts (2026-03-26)
