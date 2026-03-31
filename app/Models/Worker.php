@@ -43,3 +43,7 @@ class Worker extends Model
         return $this->hasMany(Booking::class, 'provider_worker_id');
     }
 }
+
+// update: fix: queue worker crashing on malformed job payload (2026-04-09)
+
+// update: fix: queue worker crashing on malformed job payload (2026-03-31)
