@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: refactor: clean up unused imports across all controllers (2026-04-09)
+// change: style: fix inconsistent button sizes on checkout page (2026-04-09)
 
-// change: refactor: clean up unused imports across all controllers (2026-03-31)
+// change: style: fix inconsistent button sizes on checkout page (2026-04-01)
