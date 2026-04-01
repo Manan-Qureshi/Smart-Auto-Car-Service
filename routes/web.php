@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: chore: sync final project state (2026-04-09)
+// change: DockerFile for dockerizing project (2026-04-09)
 
-// change: chore: sync final project state (2026-04-01)
+// change: DockerFile for dockerizing project (2026-04-01)
