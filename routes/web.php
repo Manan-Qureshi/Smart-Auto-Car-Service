@@ -136,3 +136,7 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
+
+// change: chore: sync final project state (2026-04-09)
+
+// change: chore: sync final project state (2026-04-01)

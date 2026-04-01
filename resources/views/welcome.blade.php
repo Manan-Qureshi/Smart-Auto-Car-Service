@@ -215,6 +215,3 @@
     </script>
 
 @endpush
-// update: fix: minor layout issue on mobile order summary view (2026-04-09)
-
-// update: fix: minor layout issue on mobile order summary view (2026-04-01)
