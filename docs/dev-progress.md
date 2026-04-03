@@ -74,3 +74,4 @@ This file tracks daily development progress.
 start project
 added login
 css fix
+worked on home page
