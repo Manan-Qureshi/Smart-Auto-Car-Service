@@ -215,6 +215,3 @@
     </script>
 
 @endpush
-// update: worked on home page (2026-04-09)
-
-// update: worked on home page (2026-04-03)
