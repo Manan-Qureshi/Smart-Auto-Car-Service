@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: added users (2026-04-13)
+// change: fix nav bar (2026-04-13)
 
-// change: added users (2026-04-07)
+// change: fix nav bar (2026-04-07)
