@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: js script (2026-04-12)
+// change: database setup (2026-04-12)
 
-// change: js script (2026-04-03)
+// change: database setup (2026-04-07)
