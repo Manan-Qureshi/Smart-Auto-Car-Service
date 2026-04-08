@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: added images (2026-04-13)
+// change: login page ui (2026-04-13)
 
-// change: added images (2026-04-08)
+// change: login page ui (2026-04-08)
