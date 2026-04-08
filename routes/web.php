@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: hero section done (2026-04-13)
+// change: added images (2026-04-13)
 
-// change: hero section done (2026-04-07)
+// change: added images (2026-04-08)
