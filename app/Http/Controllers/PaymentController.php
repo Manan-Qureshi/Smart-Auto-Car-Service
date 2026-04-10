@@ -123,7 +123,3 @@ class PaymentController extends Controller
     public function checkout(Request $request) { return $this->checkoutBooking(Booking::find(0)); }
     public function assignWorker(Booking $booking) {} // no-op, now providers assign workers
 }
-
-// update: fix payment (2026-04-19)
-
-// update: fix payment (2026-04-10)
