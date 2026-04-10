@@ -124,6 +124,6 @@ class PaymentController extends Controller
     public function assignWorker(Booking $booking) {} // no-op, now providers assign workers
 }
 
-// update: stripe payment test (2026-04-17)
+// update: fix payment (2026-04-19)
 
-// update: stripe payment test (2026-04-09)
+// update: fix payment (2026-04-10)
