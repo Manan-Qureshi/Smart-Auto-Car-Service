@@ -185,3 +185,4 @@ added images
 login page ui
 registration form
 worked on sidebar
+added car types
