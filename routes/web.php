@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: icons change (2026-04-26)
-
-// change: icons change (2026-04-16)
