@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: responsive fix (2026-04-23)
+// change: header fix (2026-04-23)
 
-// change: responsive fix (2026-04-16)
+// change: header fix (2026-04-16)
