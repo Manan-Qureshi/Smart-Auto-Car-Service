@@ -62,6 +62,6 @@ class ProfileController extends Controller
     }
 }
 
-// update: profile page (2026-04-29)
+// update: edit profile (2026-05-03)
 
-// update: profile page (2026-04-16)
+// update: edit profile (2026-04-19)
