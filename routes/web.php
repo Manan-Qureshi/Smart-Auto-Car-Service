@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: location detect (2026-05-04)
-
-// change: location detect (2026-04-19)
