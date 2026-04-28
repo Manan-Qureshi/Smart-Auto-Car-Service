@@ -116,3 +116,4 @@ dashboard icons
 worker list
 commission calc
 financial report
+car selection

@@ -16,3 +16,7 @@ class CarModel extends Model
         return $this->belongsTo(CarType::class);
     }
 }
+
+// update: car selection (2026-05-16)
+
+// update: car selection (2026-04-28)

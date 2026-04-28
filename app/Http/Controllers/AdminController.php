@@ -134,7 +134,3 @@ class AdminController extends Controller
         return view('admin.financial', compact('commissions', 'totalRevenue', 'totalEarnings', 'totalBookings'));
     }
 }
-
-// update: financial report (2026-05-12)
-
-// update: financial report (2026-04-28)
