@@ -115,3 +115,4 @@ ajax fix
 dashboard icons
 worker list
 commission calc
+financial report

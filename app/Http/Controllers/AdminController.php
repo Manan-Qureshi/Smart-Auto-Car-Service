@@ -135,6 +135,6 @@ class AdminController extends Controller
     }
 }
 
-// update: commission calc (2026-05-12)
+// update: financial report (2026-05-12)
 
-// update: commission calc (2026-04-27)
+// update: financial report (2026-04-28)
