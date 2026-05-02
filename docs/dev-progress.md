@@ -207,3 +207,4 @@ added ratings
 feedback script
 map icon
 location detect
+booking status
