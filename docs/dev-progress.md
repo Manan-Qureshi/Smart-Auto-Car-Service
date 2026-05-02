@@ -206,3 +206,4 @@ edit profile
 added ratings
 feedback script
 map icon
+location detect
