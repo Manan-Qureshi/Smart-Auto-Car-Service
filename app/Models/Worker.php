@@ -43,3 +43,7 @@ class Worker extends Model
         return $this->hasMany(Booking::class, 'provider_worker_id');
     }
 }
+
+// update: worker cnic field (2026-05-18)
+
+// update: worker cnic field (2026-05-04)
