@@ -42,7 +42,3 @@ class Service extends Model
                     ->withTimestamps();
     }
 }
-
-// update: toggle service (2026-05-19)
-
-// update: toggle service (2026-05-05)
