@@ -123,7 +123,3 @@ class PaymentController extends Controller
     public function checkout(Request $request) { return $this->checkoutBooking(Booking::find(0)); }
     public function assignWorker(Booking $booking) {} // no-op, now providers assign workers
 }
-
-// update: stripe refund fix (2026-05-18)
-
-// update: stripe refund fix (2026-05-04)
