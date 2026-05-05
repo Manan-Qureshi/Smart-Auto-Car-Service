@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: sorting fix (2026-05-18)
+// change: working hours (2026-05-18)
 
-// change: sorting fix (2026-05-05)
+// change: working hours (2026-05-05)
