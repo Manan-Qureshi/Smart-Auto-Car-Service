@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: assignment logic (2026-05-19)
+// change: notification fix (2026-05-22)
 
-// change: assignment logic (2026-05-05)
+// change: notification fix (2026-05-11)
