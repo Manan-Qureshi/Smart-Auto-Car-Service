@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: final ui fix (2026-05-22)
+// change: readme update (2026-05-22)
 
-// change: final ui fix (2026-05-11)
+// change: readme update (2026-05-11)
