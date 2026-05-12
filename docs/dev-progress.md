@@ -129,3 +129,4 @@ notification fix
 deployment test
 final ui fix
 readme update
+env setup
