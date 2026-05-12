@@ -133,3 +133,4 @@ env setup
 added seeder
 factory test
 route fix
+middleware added
