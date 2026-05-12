@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: added seeder (2026-05-24)
+// change: factory test (2026-05-24)
 
-// change: added seeder (2026-05-12)
+// change: factory test (2026-05-12)
