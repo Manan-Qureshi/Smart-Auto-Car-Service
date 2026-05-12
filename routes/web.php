@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: env setup (2026-05-22)
+// change: added seeder (2026-05-24)
 
-// change: env setup (2026-05-12)
+// change: added seeder (2026-05-12)
