@@ -132,3 +132,4 @@ readme update
 env setup
 added seeder
 factory test
+route fix

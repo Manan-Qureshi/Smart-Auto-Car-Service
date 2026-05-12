@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: factory test (2026-05-24)
+// change: route fix (2026-05-24)
 
-// change: factory test (2026-05-12)
+// change: route fix (2026-05-12)
