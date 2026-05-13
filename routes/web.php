@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: migration change (2026-05-27)
+// change: added column (2026-05-27)
 
-// change: migration change (2026-05-13)
+// change: added column (2026-05-13)
