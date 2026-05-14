@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fonts added (2026-05-30)
+// change: glass effect (2026-05-30)
 
-// change: fonts added (2026-05-14)
+// change: glass effect (2026-05-14)
