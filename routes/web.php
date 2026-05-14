@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: added column (2026-05-27)
+// change: ui polish (2026-05-27)
 
-// change: added column (2026-05-13)
+// change: ui polish (2026-05-14)
