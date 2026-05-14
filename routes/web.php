@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: ui polish (2026-05-27)
+// change: fonts added (2026-05-30)
 
-// change: ui polish (2026-05-14)
+// change: fonts added (2026-05-14)
