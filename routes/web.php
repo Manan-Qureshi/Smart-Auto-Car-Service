@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: glass effect (2026-05-30)
+// change: hover test (2026-05-30)
 
-// change: glass effect (2026-05-14)
+// change: hover test (2026-05-14)
