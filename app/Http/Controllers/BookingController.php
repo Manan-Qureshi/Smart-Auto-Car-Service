@@ -225,7 +225,3 @@ class BookingController extends Controller
         return redirect()->route('welcome');
     }
 }
-
-// update: test booking (2026-06-03)
-
-// update: test booking (2026-05-18)
