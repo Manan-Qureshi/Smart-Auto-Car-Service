@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: confirm page (2026-06-03)
+// change: mail test (2026-06-03)
 
-// change: confirm page (2026-05-18)
+// change: mail test (2026-05-18)
