@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: form validation (2026-05-30)
+// change: input fix (2026-05-31)
 
-// change: form validation (2026-05-14)
+// change: input fix (2026-05-18)
