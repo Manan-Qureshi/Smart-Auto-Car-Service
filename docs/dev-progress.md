@@ -151,3 +151,4 @@ mail test
 alert box fix
 dropdown change
 image upload
+thumbnail fix

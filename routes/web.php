@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: image upload (2026-06-07)
+// change: thumbnail fix (2026-06-08)
 
-// change: image upload (2026-05-19)
+// change: thumbnail fix (2026-05-20)
