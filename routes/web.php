@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: thumbnail fix (2026-06-08)
+// change: csv export (2026-06-11)
 
-// change: thumbnail fix (2026-05-20)
+// change: csv export (2026-05-20)
