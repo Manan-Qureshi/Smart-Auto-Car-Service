@@ -155,3 +155,4 @@ thumbnail fix
 csv export
 time rounding
 toast notification
+eager loading fix

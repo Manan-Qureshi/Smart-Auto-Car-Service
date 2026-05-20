@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: toast notification (2026-06-11)
+// change: eager loading fix (2026-06-12)
 
-// change: toast notification (2026-05-20)
+// change: eager loading fix (2026-05-20)
