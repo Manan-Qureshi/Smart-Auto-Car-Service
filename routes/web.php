@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: csv export (2026-06-11)
+// change: time rounding (2026-06-11)
 
-// change: csv export (2026-05-20)
+// change: time rounding (2026-05-20)
