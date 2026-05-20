@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: time rounding (2026-06-11)
+// change: toast notification (2026-06-11)
 
-// change: time rounding (2026-05-20)
+// change: toast notification (2026-05-20)
