@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: webhook fix (2026-06-12)
+// change: signature test (2026-06-12)
 
-// change: webhook fix (2026-05-25)
+// change: signature test (2026-05-25)
