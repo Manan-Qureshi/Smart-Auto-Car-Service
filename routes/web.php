@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: eager loading fix (2026-06-12)
+// change: dark mode test (2026-06-12)
 
-// change: eager loading fix (2026-05-20)
+// change: dark mode test (2026-05-25)
