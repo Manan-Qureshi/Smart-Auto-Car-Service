@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: search bar (2026-06-12)
+// change: soft deletes (2026-06-12)
 
-// change: search bar (2026-05-26)
+// change: soft deletes (2026-05-26)
