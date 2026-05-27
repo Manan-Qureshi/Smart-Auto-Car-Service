@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: cache setup (2026-06-12)
+// change: loading spinner (2026-06-12)
 
-// change: cache setup (2026-05-27)
+// change: loading spinner (2026-05-27)
