@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: soft deletes (2026-06-12)
+// change: grouped routes (2026-06-12)
 
-// change: soft deletes (2026-05-26)
+// change: grouped routes (2026-05-27)
