@@ -166,3 +166,4 @@ soft deletes
 grouped routes
 cache setup
 loading spinner
+controller refactor
