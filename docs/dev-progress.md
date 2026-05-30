@@ -168,3 +168,4 @@ cache setup
 loading spinner
 controller refactor
 helper function
+sidebar fix
