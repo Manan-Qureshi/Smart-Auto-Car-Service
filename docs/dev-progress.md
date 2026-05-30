@@ -167,3 +167,4 @@ grouped routes
 cache setup
 loading spinner
 controller refactor
+helper function

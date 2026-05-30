@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: controller refactor (2026-06-13)
+// change: helper function (2026-06-13)
 
-// change: controller refactor (2026-05-30)
+// change: helper function (2026-05-30)
