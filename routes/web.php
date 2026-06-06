@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: fix nav bar (2026-06-15)
+// change: hero section done (2026-06-15)
 
-// change: fix nav bar (2026-06-06)
+// change: hero section done (2026-06-06)
