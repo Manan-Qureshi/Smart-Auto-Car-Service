@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: database setup (2026-06-14)
+// change: added users (2026-06-14)
 
-// change: database setup (2026-06-06)
+// change: added users (2026-06-06)
