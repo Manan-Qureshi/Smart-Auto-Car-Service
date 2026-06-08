@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: registration form (2026-06-17)
+// change: worked on sidebar (2026-06-17)
 
-// change: registration form (2026-06-07)
+// change: worked on sidebar (2026-06-08)
