@@ -136,7 +136,3 @@ Route::middleware(['auth'])->group(function () {
         Route::get('/financial', [App\Http\Controllers\AdminController::class, 'financial'])->name('financial');
     });
 });
-
-// change: worked on sidebar (2026-06-17)
-
-// change: worked on sidebar (2026-06-08)
