@@ -225,7 +225,3 @@ class BookingController extends Controller
         return redirect()->route('welcome');
     }
 }
-
-// update: booking form (2026-06-17)
-
-// update: booking form (2026-06-09)
