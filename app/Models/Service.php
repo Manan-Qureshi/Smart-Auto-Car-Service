@@ -42,7 +42,3 @@ class Service extends Model
                     ->withTimestamps();
     }
 }
-
-// update: services list (2026-06-17)
-
-// update: services list (2026-06-09)
