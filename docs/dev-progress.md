@@ -189,3 +189,4 @@ added car types
 services list
 booking form
 stripe payment test
+fix payment
