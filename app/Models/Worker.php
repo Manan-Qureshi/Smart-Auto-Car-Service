@@ -43,3 +43,7 @@ class Worker extends Model
         return $this->hasMany(Booking::class, 'provider_worker_id');
     }
 }
+
+// update: worker management (2026-06-19)
+
+// update: worker management (2026-06-13)
