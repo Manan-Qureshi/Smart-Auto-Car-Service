@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: footer added (2026-06-19)
+// change: icons change (2026-06-19)
 
-// change: footer added (2026-06-15)
+// change: icons change (2026-06-15)
