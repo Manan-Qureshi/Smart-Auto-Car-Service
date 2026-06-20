@@ -202,3 +202,4 @@ header fix
 footer added
 icons change
 profile page
+edit profile
