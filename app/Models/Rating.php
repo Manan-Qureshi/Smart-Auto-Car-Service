@@ -32,3 +32,7 @@ class Rating extends Model
         return $this->belongsTo(ServiceProvider::class);
     }
 }
+
+// update: added ratings (2026-06-19)
+
+// update: added ratings (2026-06-20)

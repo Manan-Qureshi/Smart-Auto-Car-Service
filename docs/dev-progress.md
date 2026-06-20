@@ -203,3 +203,4 @@ footer added
 icons change
 profile page
 edit profile
+added ratings

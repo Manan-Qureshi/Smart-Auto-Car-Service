@@ -61,7 +61,3 @@ class ProfileController extends Controller
         return redirect()->route('profile.edit')->with('success', 'Profile updated successfully.');
     }
 }
-
-// update: edit profile (2026-06-19)
-
-// update: edit profile (2026-06-20)
