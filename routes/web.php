@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: map icon (2026-06-20)
+// change: location detect (2026-06-20)
 
-// change: map icon (2026-06-21)
+// change: location detect (2026-06-21)
