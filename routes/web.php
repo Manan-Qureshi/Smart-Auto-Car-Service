@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: pusher config (2026-06-27)
+// change: realtime test (2026-06-27)
 
-// change: pusher config (2026-06-21)
+// change: realtime test (2026-06-22)
