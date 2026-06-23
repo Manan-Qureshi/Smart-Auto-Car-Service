@@ -212,3 +212,4 @@ pusher config
 realtime test
 cart system
 ajax fix
+dashboard icons
