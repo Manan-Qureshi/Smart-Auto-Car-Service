@@ -116,7 +116,3 @@ class DashboardController extends Controller
     }
 }
 
-
-// update: dashboard icons (2026-06-27)
-
-// update: dashboard icons (2026-06-23)
