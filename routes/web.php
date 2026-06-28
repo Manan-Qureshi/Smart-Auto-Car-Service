@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: session fix (2026-06-27)
+// change: validation update (2026-06-29)
 
-// change: session fix (2026-06-28)
+// change: validation update (2026-06-28)
