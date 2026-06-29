@@ -95,6 +95,6 @@ Follow these steps to set up the project on your local machine:
 You can use the following default account to log in as Admin and test the dashboard:
 
 - **Admin Account:**
-  - **Email:** `admin123@.com`
+  - **Email:** `admin123@gmail.com`
   - **Password:** `password`
 
