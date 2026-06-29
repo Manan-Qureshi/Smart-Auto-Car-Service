@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: Changing Seeder file admin data (2026-06-29)
+// change: chaning in project structure (2026-06-29)
 
-// change: Changing Seeder file admin data (2026-06-29)
+// change: chaning in project structure (2026-06-29)
