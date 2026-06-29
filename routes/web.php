@@ -137,6 +137,6 @@ Route::middleware(['auth'])->group(function () {
     });
 });
 
-// change: Update README.md with simple, beginner-friendly description and features (2026-06-29)
+// change: Changing Seeder file admin data (2026-06-29)
 
-// change: Update README.md with simple, beginner-friendly description and features (2026-06-29)
+// change: Changing Seeder file admin data (2026-06-29)
